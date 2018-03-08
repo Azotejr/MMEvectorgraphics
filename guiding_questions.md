@@ -3,7 +3,7 @@
 
 **1. Briefly explain the main idea behind the technology you're researching, what is it exactly? what is it for? How does it work?**
 
-Vector graphic is a type of technology that uses a special type of polygons to make images in computer graphics. Each of the points in the polygons have a definite position on a coordinate. Thus, images created by this technology will not lose its quality when being enlarged.
+Vector graphic is a type of technology that uses a special kind of polygons to make images in computer graphics. Each of the points in the polygons have a definite position on a coordinate. Thus, images created by this technology will not lose its quality when being enlarged.
 
 **2. Who are the important people and/or organizations related to this technology? Don't just list names, briefly explain who these are and what their relationship to your research area is.**
 
