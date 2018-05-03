@@ -13,13 +13,13 @@ Vector graphics were first used in specialized or military systems like the US a
 
 One of the most notable milestones of the development of computer graphics is the invention of Sketchpad by Ivan Sutherland. The software redefined way of operating and interacting with computer by using a graphic user interface for the first time.
 
-![Sketchpad](Sketchpad.jpg)
+![Sketchpad](images/Sketchpad.jpg)
 
 *(Ivan Sutherland demonstrating the use of Sketchpad)*
 
 During 1980s to 1990s, programs like Icarus, Adobe Illustrator and Aldus Freehand were introduced as important tools to transit traditional typefaces into digital forms, so that they could be displayed and used on computer screens.
 
-![FontForge](FontForge.png)
+![FontForge](images/FontForge.png)
 
 *(FontForge, a modern program for type design)*
 

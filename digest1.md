@@ -1,5 +1,5 @@
 # Vector Graphics
-*Digest 1 - Jiarui Wang*
+*Digest 1*
 
 **Sigma Xi, The Scientific Research Society**
 (http://www.jstor.org/stable/pdf/23222840.pdf?refreqid=excelsior:111fe6672e019066b66407b3b0210780)
